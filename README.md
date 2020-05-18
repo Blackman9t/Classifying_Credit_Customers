@@ -18,5 +18,5 @@ import matplotlib.ticker as ticker<br>
 import seaborn as sns<br>
 from sklearn import preprocessing<br></font>
 
-<b>You can also read my article on Medium about the impact of credit-loan deafulters, based on this project:</b>
+<b>You can also read my article on Medium about the impact of credit-loan defaulters, based on this project:</b>
 See [Link](https://medium.com/towards-artificial-intelligence/classifying-credit-loan-customers-35e4a18dd24)

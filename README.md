@@ -7,7 +7,7 @@ In this project,
 We shall explore Binary-Classification, as I create and evaluate models to classify credit-loan customers as either defaulters or Non-Defaulters.
 
 To Follow along, kindly install and import the following libraries:-
-
+<font color='Blue'>
 import itertools<br>
 import numpy as np<br>
 import matplotlib.pyplot as plt<br>
@@ -16,7 +16,7 @@ import pandas as pd<br>
 import numpy as np<br>
 import matplotlib.ticker as ticker<br>
 import seaborn as sns<br>
-from sklearn import preprocessing<br>
+from sklearn import preprocessing<br></font>
 
-You can also read my article on Medium about the impact of credit-loan deafulters, based on this project:
+<b>You can also read my article on Medium about the impact of credit-loan deafulters, based on this project:</b>
 See [Link](https://medium.com/towards-artificial-intelligence/classifying-credit-loan-customers-35e4a18dd24)

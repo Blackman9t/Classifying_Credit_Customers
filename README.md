@@ -1,12 +1,13 @@
-# <u>Classifying_Credit_Customers</u>
+# <u><h2>Classifying_Credit_Customers</h2></u>
 
 Classification is a type of Supervised-machine-Learning that involves the categorization of data points into discrete categories. There are two broad types of classification tasks:-
-1. Binary-Classification: This involves classifying data points into two categories, for example cat or dog.
-2. Multi-Class-Classification: This involves the classification of data points into more than two categories.
+1. <b>Binary-Classification:</b> This involves classifying data points into two categories, for example cat or dog.
+2. <b>Multi-Class-Classification:</b> This involves the classification of data points into more than two categories.
 
 In this project, 
 We shall explore Binary-Classification, as I create and evaluate models to classify credit-loan customers as either defaulters or Non-Defaulters.
 
+<b><h3>Installation</h3></b>
 To Follow along, kindly install and import the following libraries:-
 ```
 import itertools

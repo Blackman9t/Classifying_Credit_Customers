@@ -24,3 +24,6 @@ from sklearn import preprocessing<br></font>
 <b>For More Info:</b><br>
 You can also read my article on Medium about the impact of credit-loan defaulters, based on this project:
 >> See <b>[Link](https://medium.com/towards-artificial-intelligence/classifying-credit-loan-customers-35e4a18dd24)</b>
+
+<h3><b>License:</b></h3>
+The license for this project can be found in the LICENSE file of the root file directory. The Licence is authourised by <b>[MIT](https://choosealicense.com/licenses/mit/)</b>

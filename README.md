@@ -1,4 +1,5 @@
-# Classifying_Credit_Customers
+# <u>Classifying_Credit_Customers</u>
+
 Classification is a type of Supervised-machine-Learning that involves the categorization of data points into discrete categories. There are two broad types of classification tasks:-
 1. Binary-Classification: This involves classifying data points into two categories, for example cat or dog.
 2. Multi-Class-Classification: This involves the classification of data points into more than two categories.
@@ -19,5 +20,6 @@ import seaborn as sns
 from sklearn import preprocessing<br></font>
 ```
 
-<b>You can also read my article on Medium about the impact of credit-loan defaulters, based on this project:</b>
-See [Link](https://medium.com/towards-artificial-intelligence/classifying-credit-loan-customers-35e4a18dd24)
+<b>For More Info:</b><br>
+You can also read my article on Medium about the impact of credit-loan defaulters, based on this project:
+>> See <b>[Link](https://medium.com/towards-artificial-intelligence/classifying-credit-loan-customers-35e4a18dd24)</b>

@@ -8,14 +8,14 @@ We shall explore Binary-Classification, as I create and evaluate models to class
 
 To Follow along, kindly install and import the following libraries:-
 ```
-import itertools<br>
-import numpy as np<br>
-import matplotlib.pyplot as plt<br>
-from matplotlib.ticker import NullFormatter<br>
-import pandas as pd<br>
-import numpy as np<br>
-import matplotlib.ticker as ticker<br>
-import seaborn as sns<br>
+import itertools
+import numpy as np
+import matplotlib.pyplot as plt
+from matplotlib.ticker import NullFormatter
+import pandas as pd
+import numpy as np
+import matplotlib.ticker as ticker
+import seaborn as sns
 from sklearn import preprocessing<br></font>
 ```
 

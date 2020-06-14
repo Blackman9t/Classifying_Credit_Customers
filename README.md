@@ -27,4 +27,4 @@ You can also read my article on Medium about the impact of credit-loan defaulter
 
 <h3><b>License:</b></h3>
 The license for this project can be found in the LICENSE file of the root file directory. The Licence is authourised by
-**[MIT](https://choosealicense.com/licenses/mit/)**
+<b><a href="https://choosealicense.com/licenses/mit/">MIT</a></b>
